@@ -13,3 +13,25 @@ c-Azul
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 
 d-El favicon de BETA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+
+e - BETA y GAMMA 
+
+F- ¿Qué problemas surgieron?
+
+f - No podian realizar el push sin antes realizar un pull
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+
+g - Una solucion posible (la que utilizamos nosotros) seria actualizar el repositorio local realizando un pull, pero como consecuencia se sobreescribirian los datos del repositorio local
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+
+h - No utilizamos el comando push -f, cada miembro del grupo pudo realizar el push sin problemas luego de hacer un pull
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+i - Para que el index.html de DESARROLLO tenga todos los <p> de los puntos 18, 19 y 20 deberiamos hacer un merge de TESTING a DESARROLLO, ya que en TESTING tenemos todos los <p>, solo faltaria pasarlos a DESARROLLO
